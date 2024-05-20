@@ -1,6 +1,6 @@
 To start the program run:
 
-python main.py
+<code>python main.py</code>
 
 You will need to download the following libraries:
 - Qt
